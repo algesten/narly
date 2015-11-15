@@ -13,11 +13,8 @@ results
 
 node_modules
 npm-debug.log
-public
 .DS_Store
 .#*
 \#*
-bower_components
-doc
 
-BrowserStackLocal
+lib
